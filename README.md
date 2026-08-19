@@ -35,11 +35,22 @@
 <details>
 <summary><strong>▱ PROJECTS</strong>　<code>created + contributed</code></summary>
 
-Projects are intended to represent work I actually own or contributed code to.
+```text
+matantan55@github ~/projects $
 
-`✓ CREATED`　`✓ CONTRIBUTED`　`✗ FORKS`　`✗ PROFILE REPO`　`✗ PRIVATE`
+● created by me
+● repositories where I contributed code
 
-**Live MatanOS project view →** [OPEN DASHBOARD](https://matantan55.github.io/matantan55/)
+× forks
+× this profile repository
+× private repositories
+```
+
+<p align="center">
+
+[**OPEN PROJECT DASHBOARD ↗**](https://matantan55.github.io/matantan55/)
+
+</p>
 
 </details>
 
