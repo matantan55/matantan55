@@ -11,7 +11,9 @@
 </div>
 
 <p align="center">
-  <img src="./assets/matanos-profile.svg" alt="MATANTAN55 MatanOS profile dashboard" width="100%" />
+  <a href="https://matantan55.github.io/matantan55/">
+    <img src="./assets/matanos-profile.svg" alt="MATANTAN55 MatanOS profile dashboard" width="100%" />
+  </a>
 </p>
 
 ```text
