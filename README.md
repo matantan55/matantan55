@@ -1,24 +1,47 @@
-<div align="center">
+# MATANTAN55
 
-<img src="./assets/matanos.svg" alt="matantan55 terminal profile dashboard" width="100%" />
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│ MATANTAN55 // PERSONAL SYSTEM                         ● ONLINE       │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  HELLO, I'M                                                         │
+│  MATANTAN55_                                                        │
+│                                                                      │
+│  I build things that live on the internet.                          │
+│  Focus: systems · security · tooling · shipping                     │
+│                                                                      │
+│  TOP LANGUAGES                                                       │
+│  Python  ████████████████████                                       │
+│  C++     ████████████████                                           │
+│  YARA    █████████████                                              │
+│  C       ██████████                                                 │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
-</div>
+### `~/system`
 
-<!--
-  matantan55 // terminal profile
-  The dashboard above is the visual interface. GitHub renders README markdown,
-  so the interface is intentionally built as a responsive SVG rather than JS.
--->
+**This profile is now a real interactive web app — not an SVG screenshot.**
 
-<div align="center">
+**→ [LAUNCH MATANTAN55 INTERACTIVE SYSTEM](https://matantan55.github.io/matantan55/)**
 
-`ABOUT` · `PROJECTS` · `ACTIVITY` · `STACK` · `NOW` · `CONTACT`
+Inside the live dashboard you can:
 
-</div>
+- switch between **HOME / ABOUT / PROJECTS / ACTIVITY / STACK / NOW / CONTACT**
+- browse your public repositories directly from the GitHub API
+- see a live public GitHub activity feed
+- use the terminal-style command input (`help`, `projects`, `activity`, `stack`, etc.)
+- see the Python / C++ / YARA / C stack
+- use it on desktop or mobile
 
-### `~/about`
+### `~/stack`
 
-I build things that live on the internet — focused on clean systems, developer experience, security, and shipping products.
+`Python` · `C++` · `YARA` · `C` · `Git` · `Linux` · `Networking` · `Automation`
+
+### `~/private-scope`
+
+Private repositories are included when determining the language focus through the connected GitHub access, but their names, code, and private activity are **never exposed by the public dashboard**.
 
 ### `~/projects`
 
@@ -27,14 +50,15 @@ I build things that live on the internet — focused on clean systems, developer
 - [chat](https://github.com/matantan55/chat)
 - [red-cheeks](https://github.com/matantan55/red-cheeks)
 
-### `~/top-languages`
+```text
+matantan55@github ~ $ help
 
-`Python` · `C++` · `YARA` · `C`
+about       who is matantan55?
+projects    browse repositories
+activity    live GitHub feed
+stack       technologies
+now         current process
+contact     get in touch
 
-> Language focus includes work across the repositories I can access, including private repositories. Private repository names and code are not exposed by this public profile.
-
-<div align="center">
-
-`> system ready` · [github.com/matantan55](https://github.com/matantan55)
-
-</div>
+> system ready
+```
