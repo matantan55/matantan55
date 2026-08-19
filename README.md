@@ -1,75 +1,38 @@
-# matantan55
-
 <div align="center">
 
-<img src="./assets/matanos.svg" alt="matantan55 live dashboard" width="100%" />
-
-**A living profile. Powered by GitHub activity.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-matantan55-111111?style=flat-square&logo=github)](https://github.com/matantan55)
-[![Live](https://img.shields.io/badge/status-online-2ea043?style=flat-square)](https://github.com/matantan55)
+<img src="./assets/matanos.svg" alt="matantan55 terminal profile dashboard" width="100%" />
 
 </div>
 
----
-
-## `~/now`
-
-> Building things, breaking things, and learning by shipping.
-
-```text
-┌────────────────────────────────────────────────────────────┐
-│ MATANTAN55 // PERSONAL SYSTEM                             │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  USER        matantan55                                    │
-│  STATUS      ● ONLINE                                      │
-│  MODE        BUILD                                         │
-│                                                            │
-│  $ now                                                     │
-│  > turning ideas into working software                     │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
-## `~/projects`
-
-| Process | Status | Repository |
-|---|---|---|
-| `pythoncode-tutorials` | `ACTIVE` | [open](https://github.com/matantan55/pythoncode-tutorials) |
-| `tools` | `ACTIVE` | [open](https://github.com/matantan55/tools) |
-| `chat` | `ACTIVE` | [open](https://github.com/matantan55/chat) |
-| `red-cheeks` | `ACTIVE` | [open](https://github.com/matantan55/red-cheeks) |
-
-## `~/activity`
-
-The dashboard above is generated automatically by GitHub Actions and refreshed on a schedule. It pulls repository and public activity data so the profile changes as the account changes.
-
-## `~/commands`
-
-```text
-$ help
-
-about       who is matantan55?
-projects    inspect current projects
-activity    inspect recent GitHub activity
-stack       inspect the toolbox
-contact     open communication channels
-
-$ exit
-> there is no exit. keep building.
-```
-
-## `~/stack`
-
-`Python` · `JavaScript` · `TypeScript` · `Git` · `Linux` · `Networking` · `Security` · `Automation`
-
----
+<!--
+  matantan55 // terminal profile
+  The dashboard above is the visual interface. GitHub renders README markdown,
+  so the interface is intentionally built as a responsive SVG rather than JS.
+-->
 
 <div align="center">
 
-### `SYSTEM MESSAGE`
+`ABOUT` · `PROJECTS` · `ACTIVITY` · `STACK` · `NOW` · `CONTACT`
 
-**ship → learn → improve → repeat**
+</div>
+
+### `~/about`
+
+I build things that live on the internet — focused on clean systems, developer experience, and shipping products.
+
+### `~/projects`
+
+- [pythoncode-tutorials](https://github.com/matantan55/pythoncode-tutorials)
+- [tools](https://github.com/matantan55/tools)
+- [chat](https://github.com/matantan55/chat)
+- [red-cheeks](https://github.com/matantan55/red-cheeks)
+
+### `~/stack`
+
+`Python` · `JavaScript` · `TypeScript` · `Git` · `Linux` · `Networking` · `Security` · `Automation`
+
+<div align="center">
+
+`> system ready` · [github.com/matantan55](https://github.com/matantan55)
 
 </div>
