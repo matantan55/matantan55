@@ -33,28 +33,6 @@
 > Specializes at **Cybersecurity in general, Computer networking, Data visualization, Web scraping, AI development, Python and C/C++ programming languages.**
 
 <details>
-<summary><strong>▱ PROJECTS</strong>　<code>created + contributed</code></summary>
-
-```text
-matantan55@github ~/projects $
-
-● created by me
-● repositories where I contributed code
-
-× forks
-× this profile repository
-× private repositories
-```
-
-<p align="center">
-
-[**OPEN PROJECT DASHBOARD ↗**](https://matantan55.github.io/matantan55/)
-
-</p>
-
-</details>
-
-<details>
 <summary><strong>⌁ ACTIVITY</strong>　<code>github signal</code></summary>
 
 <p align="center">
