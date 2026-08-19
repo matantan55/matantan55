@@ -84,12 +84,6 @@ matantan55@github ~ $ open matanos
 
 <div align="center">
 
-### `✉ CONTACT`
-
 [**GITHUB**](https://github.com/matantan55)　·　[**LINKEDIN**](https://www.linkedin.com/in/matan-mishali-7317a8241/)
-
-<br>
-
-`MATANTAN55 // GREEN SYSTEM`　`v2.6.1`
 
 </div>
