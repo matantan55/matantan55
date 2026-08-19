@@ -63,25 +63,6 @@ matantan55@github ~ $ now
 
 </details>
 
-<details>
-<summary><strong>›_ TERMINAL</strong>　<code>interactive-style commands</code></summary>
-
-```text
-matantan55@github ~ $ whoami
-Cybersecurity and AI enthusiast
-
-matantan55@github ~ $ stack
-Python · C++ · YARA · C
-
-matantan55@github ~ $ status
-● ONLINE
-
-matantan55@github ~ $ open matanos
-→ https://matantan55.github.io/matantan55/
-```
-
-</details>
-
 <div align="center">
 
 [**GITHUB**](https://github.com/matantan55)　·　[**LINKEDIN**](https://www.linkedin.com/in/matan-mishali-7317a8241/)
