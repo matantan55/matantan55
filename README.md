@@ -43,13 +43,6 @@ Inside the live dashboard you can:
 
 Private repositories are included when determining the language focus through the connected GitHub access, but their names, code, and private activity are **never exposed by the public dashboard**.
 
-### `~/projects`
-
-- [pythoncode-tutorials](https://github.com/matantan55/pythoncode-tutorials)
-- [tools](https://github.com/matantan55/tools)
-- [chat](https://github.com/matantan55/chat)
-- [red-cheeks](https://github.com/matantan55/red-cheeks)
-
 ```text
 matantan55@github ~ $ help
 
