@@ -1,8 +1,8 @@
-# MatanOS
+# matantan55
 
 <div align="center">
 
-<img src="./assets/matanos.svg" alt="MatanOS live dashboard" width="100%" />
+<img src="./assets/matanos.svg" alt="matantan55 live dashboard" width="100%" />
 
 **A living profile. Powered by GitHub activity.**
 
@@ -19,7 +19,7 @@
 
 ```text
 ┌────────────────────────────────────────────────────────────┐
-│ MATANOS // PERSONAL SYSTEM                                │
+│ MATANTAN55 // PERSONAL SYSTEM                             │
 ├────────────────────────────────────────────────────────────┤
 │                                                            │
 │  USER        matantan55                                    │
@@ -50,7 +50,7 @@ The dashboard above is generated automatically by GitHub Actions and refreshed o
 ```text
 $ help
 
-about       who is Matan?
+about       who is matantan55?
 projects    inspect current projects
 activity    inspect recent GitHub activity
 stack       inspect the toolbox
