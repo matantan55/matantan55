@@ -17,7 +17,7 @@
 </p>
 
 ```text
-┌─ MATANOS / PROFILE ─────────────────────────────────────────────────────────┐
+┌─ MATAN / PROFILE ─────────────────────────────────────────────────────────┐
 │                                                                             │
 │  STATUS     ● ONLINE             FOCUS      CYBERSECURITY + AI              │
 │  ROLE       SOFTWARE DEVELOPER   STACK      PYTHON · C++ · YARA · C         │
