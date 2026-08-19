@@ -18,7 +18,7 @@
 
 ### `~/about`
 
-I build things that live on the internet — focused on clean systems, developer experience, and shipping products.
+I build things that live on the internet — focused on clean systems, developer experience, security, and shipping products.
 
 ### `~/projects`
 
@@ -27,9 +27,11 @@ I build things that live on the internet — focused on clean systems, developer
 - [chat](https://github.com/matantan55/chat)
 - [red-cheeks](https://github.com/matantan55/red-cheeks)
 
-### `~/stack`
+### `~/top-languages`
 
-`Python` · `JavaScript` · `TypeScript` · `Git` · `Linux` · `Networking` · `Security` · `Automation`
+`Python` · `C++` · `YARA` · `C`
+
+> Language focus includes work across the repositories I can access, including private repositories. Private repository names and code are not exposed by this public profile.
 
 <div align="center">
 
