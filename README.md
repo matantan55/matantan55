@@ -33,23 +33,6 @@
 > Specializes at **Cybersecurity in general, Computer networking, Data visualization, Web scraping, AI development, Python and C/C++ programming languages.**
 
 <details>
-<summary><strong>⌁ ACTIVITY</strong>　<code>github signal</code></summary>
-
-<p align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=matantan55&theme=dark&hide_border=true)](https://github.com/matantan55)
-
-</p>
-
-<p align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matantan55&theme=github-compact&hide_border=true)](https://github.com/matantan55)
-
-</p>
-
-</details>
-
-<details>
 <summary><strong>◇ STACK</strong>　<code>primary technologies</code></summary>
 
 | | Stack |
